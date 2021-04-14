@@ -8,7 +8,7 @@ The most important pieces of code reside on the pastes pages, core and config.
 
 ### `npm install`
 
-On Node version 10+, run this command to install the project
+On Node version 14+, run this command to install the project
 
 ### `npm start`
 
