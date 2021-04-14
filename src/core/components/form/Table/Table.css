@@ -1,0 +1,29 @@
+.tableSearch {
+  margin-left: 8%;
+  margin-right: 8%;
+}
+
+.table {
+  border-collapse: collapse;
+}
+
+.thead {
+  background-color: #6d6bf9;
+  color: white;
+  font-family: serif;
+  border: 0px;
+}
+
+th {
+  padding: 1%;
+  width: 50%;
+  text-align: initial;
+}
+
+td {
+  padding: 1%;
+}
+
+tr {
+  border-bottom: 1px solid
+}

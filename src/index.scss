@@ -1,0 +1,41 @@
+
+$purple-header :  #6d6bf9;
+$purple-back: #f1effa;
+$font-white: white;
+
+body {
+  font-family: sans-serif;
+  background-color: $purple-back;
+}
+
+.container {
+  padding: 2% 5%;
+  background-color: #fafafa;
+}
+
+.painel {
+  padding: 2% 7%;
+  background-color: $font-white;
+  box-sizing: border-box;
+  border: 1px solid transparent;
+
+  .header {
+    background-color: $purple-header;
+    padding: 1px;
+    margin-bottom: 11px;    
+  }
+
+  .title {
+    margin-left: 3%;
+    color: $font-white;
+    font-family: serif;
+  }
+
+  .header-sub {
+    background-color: $purple-header;
+    padding: 1px;
+    margin-bottom: 11px;
+    margin-left: 8%;
+    margin-right: 8%;
+  }
+}
